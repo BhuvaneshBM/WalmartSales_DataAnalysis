@@ -74,7 +74,7 @@
 ## 📈 Forecasting Future Sales
 
 
-![Walmart Sales Forecast](output/forecast.jpg)
+![Walmart Sales Forecast](output\actual_vs_forecast.jpg)
 
 - Sales forecasts were generated using **Prophet**, projecting 24 future weeks based on trends, seasonality, and historical patterns. 
 - Forecasts can be integrated into decision-making on staffing, inventory, and promotions.
