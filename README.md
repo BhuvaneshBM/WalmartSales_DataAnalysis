@@ -65,7 +65,7 @@
 ---
 ## 📊 Dashboard Highlights
 
-![dashboard1](Walmart_sales_Dashboard.png)
+![dashboard1](/Walmart_sales_Dashboard%20.png)
 
 ---
 ## 📈 Forecasting Future Sales
